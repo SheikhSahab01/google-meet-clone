@@ -1,0 +1,38 @@
+.home-page{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+
+.header{
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    padding:20px;
+    box-sizing: border-box;
+    .logo{
+        display:flex;
+        align-items:center;
+        width:124px;
+        img{
+            width:100%;
+        }
+        .logo-text{
+            font-size:22px;
+            padding-left:4px;
+            color: #5f6368;
+        }
+    }
+    .action-btns{
+        display:flex;
+        align-items:center;
+        .icon-block{
+            font-size:20px;
+            padding:10px;
+            color: #5f6368;
+        }
+        img{
+            border-radius:50%;
+        }
+    }
+}
