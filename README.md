@@ -72,8 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### About
 
-![click on Allow](https://drive.google.com/file/d/15Pw_cmotQ1ZBOWzKIZhgrsmtYmO3GSw_/view?usp=sharing) <br><br><br>
-![image](https://drive.google.com/file/d/1Cl1gtm8wFjx4IkE03sxiF1BuuWGIV-Jd/view?usp=sharing)
+<h1 align="center">Google Meet</h1>
+
+
+![click on Allow](https://ik.imagekit.io/uazn82tha/G3_Olk156aCi.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413497) <br><br><br>
+![image](https://ik.imagekit.io/uazn82tha/G1_i-KZk4PdQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650654413351&tr=w-1104%2Ch-736%2Cfo-auto)
 
 
 
